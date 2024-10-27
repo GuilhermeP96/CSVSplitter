@@ -30,7 +30,7 @@ Uma ferramenta para dividir arquivos CSV em múltiplos arquivos com base na quan
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/csv-splitter.git
+   git clone https://github.com/GuilhermeP96/csv-splitter.git
    cd csv-splitter
    ```
 2. Instale as dependências:
